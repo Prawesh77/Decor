@@ -590,6 +590,14 @@ video {
   top: 85vh;
 }
 
+.left-\[75vw\] {
+  left: 75vw;
+}
+
+.left-\[80vw\] {
+  left: 80vw;
+}
+
 .-z-10 {
   z-index: -10;
 }
